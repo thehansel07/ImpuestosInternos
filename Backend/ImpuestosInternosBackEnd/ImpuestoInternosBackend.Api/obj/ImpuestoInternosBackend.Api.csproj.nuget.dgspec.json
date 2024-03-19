@@ -1,0 +1,361 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestoInternosBackend.Api\\ImpuestoInternosBackend.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestoInternosBackend.Api\\ImpuestoInternosBackend.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestoInternosBackend.Api\\ImpuestoInternosBackend.Api.csproj",
+        "projectName": "ImpuestoInternosBackend.Api",
+        "projectPath": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestoInternosBackend.Api\\ImpuestoInternosBackend.Api.csproj",
+        "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
+        "outputPath": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestoInternosBackend.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Application\\ImpuestosInternosBackEnd.Application.csproj": {
+                "projectPath": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Application\\ImpuestosInternosBackEnd.Application.csproj"
+              },
+              "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Persistences\\ImpuestosInternosBackEnd.Infrastructure.csproj": {
+                "projectPath": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Persistences\\ImpuestosInternosBackEnd.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Application\\ImpuestosInternosBackEnd.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Application\\ImpuestosInternosBackEnd.Application.csproj",
+        "projectName": "ImpuestosInternosBackEnd.Application",
+        "projectPath": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Application\\ImpuestosInternosBackEnd.Application.csproj",
+        "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
+        "outputPath": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Domain\\ImpuestosInternosBackEnd.Domain.csproj": {
+                "projectPath": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Domain\\ImpuestosInternosBackEnd.Domain.csproj"
+              },
+              "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Persistences\\ImpuestosInternosBackEnd.Infrastructure.csproj": {
+                "projectPath": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Persistences\\ImpuestosInternosBackEnd.Infrastructure.csproj"
+              },
+              "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Utilities\\ImpuestosInternosBackEnd.Utilities.csproj": {
+                "projectPath": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Utilities\\ImpuestosInternosBackEnd.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "WatchDog.NET": {
+              "target": "Package",
+              "version": "[1.4.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Domain\\ImpuestosInternosBackEnd.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Domain\\ImpuestosInternosBackEnd.Domain.csproj",
+        "projectName": "ImpuestosInternosBackEnd.Domain",
+        "projectPath": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Domain\\ImpuestosInternosBackEnd.Domain.csproj",
+        "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
+        "outputPath": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Persistences\\ImpuestosInternosBackEnd.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Persistences\\ImpuestosInternosBackEnd.Infrastructure.csproj",
+        "projectName": "ImpuestosInternosBackEnd.Infrastructure",
+        "projectPath": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Persistences\\ImpuestosInternosBackEnd.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
+        "outputPath": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Persistences\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Domain\\ImpuestosInternosBackEnd.Domain.csproj": {
+                "projectPath": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Domain\\ImpuestosInternosBackEnd.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Utilities\\ImpuestosInternosBackEnd.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Utilities\\ImpuestosInternosBackEnd.Utilities.csproj",
+        "projectName": "ImpuestosInternosBackEnd.Utilities",
+        "projectPath": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Utilities\\ImpuestosInternosBackEnd.Utilities.csproj",
+        "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
+        "outputPath": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Domain\bin\Debug\net8.0\ImpuestosInternosBackEnd.Domain.deps.json
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Domain\bin\Debug\net8.0\ImpuestosInternosBackEnd.Domain.dll
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Domain\bin\Debug\net8.0\ImpuestosInternosBackEnd.Domain.pdb
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Domain\obj\Debug\net8.0\ImpuestosInternosBackEnd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Domain\obj\Debug\net8.0\ImpuestosInternosBackEnd.Domain.AssemblyInfoInputs.cache
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Domain\obj\Debug\net8.0\ImpuestosInternosBackEnd.Domain.AssemblyInfo.cs
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Domain\obj\Debug\net8.0\ImpuestosInternosBackEnd.Domain.csproj.CoreCompileInputs.cache
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Domain\obj\Debug\net8.0\ImpuestosInternosBackEnd.Domain.dll
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Domain\obj\Debug\net8.0\refint\ImpuestosInternosBackEnd.Domain.dll
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Domain\obj\Debug\net8.0\ImpuestosInternosBackEnd.Domain.pdb
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Domain\obj\Debug\net8.0\ref\ImpuestosInternosBackEnd.Domain.dll

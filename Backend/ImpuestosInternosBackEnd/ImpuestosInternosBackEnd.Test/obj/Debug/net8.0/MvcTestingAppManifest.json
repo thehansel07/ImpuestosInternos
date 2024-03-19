@@ -1,0 +1,7 @@
+{
+  "ImpuestoInternosBackend.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestoInternosBackend.Api",
+  "ImpuestosInternosBackEnd.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Application",
+  "ImpuestosInternosBackEnd.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Domain",
+  "ImpuestosInternosBackEnd.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Persistences",
+  "ImpuestosInternosBackEnd.Utilities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\MSI\\DevTest\\ImpuestosInternosBackEnd\\ImpuestosInternosBackEnd.Utilities"
+}

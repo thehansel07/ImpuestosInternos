@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ov9feqzOYbj1ze9f0ki5QeOuN1GCfVcNw27nGK2IYPA=",
+  "Source": "ImpuestoInternosBackend.Api",
+  "BasePath": "_content/ImpuestoInternosBackend.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

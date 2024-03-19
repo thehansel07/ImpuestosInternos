@@ -1,0 +1,17 @@
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Persistences\bin\Debug\net8.0\ImpuestosInternosBackEnd.Infrastructure.deps.json
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Persistences\bin\Debug\net8.0\ImpuestosInternosBackEnd.Infrastructure.runtimeconfig.json
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Persistences\bin\Debug\net8.0\ImpuestosInternosBackEnd.Infrastructure.dll
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Persistences\bin\Debug\net8.0\ImpuestosInternosBackEnd.Infrastructure.pdb
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Persistences\bin\Debug\net8.0\ImpuestosInternosBackEnd.Domain.dll
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Persistences\bin\Debug\net8.0\ImpuestosInternosBackEnd.Domain.pdb
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Persistences\obj\Debug\net8.0\ImpuestosInternosBackEnd.Infrastructure.csproj.AssemblyReference.cache
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Persistences\obj\Debug\net8.0\ImpuestosInternosBackEnd.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Persistences\obj\Debug\net8.0\ImpuestosInternosBackEnd.Infrastructure.AssemblyInfoInputs.cache
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Persistences\obj\Debug\net8.0\ImpuestosInternosBackEnd.Infrastructure.AssemblyInfo.cs
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Persistences\obj\Debug\net8.0\ImpuestosInternosBackEnd.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Persistences\obj\Debug\net8.0\ImpuestosInternosBackEnd.Infrastructure.csproj.CopyComplete
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Persistences\obj\Debug\net8.0\ImpuestosInternosBackEnd.Infrastructure.dll
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Persistences\obj\Debug\net8.0\refint\ImpuestosInternosBackEnd.Infrastructure.dll
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Persistences\obj\Debug\net8.0\ImpuestosInternosBackEnd.Infrastructure.pdb
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Persistences\obj\Debug\net8.0\ImpuestosInternosBackEnd.Infrastructure.genruntimeconfig.cache
+D:\MSI\DevTest\ImpuestosInternosBackEnd\ImpuestosInternosBackEnd.Persistences\obj\Debug\net8.0\ref\ImpuestosInternosBackEnd.Infrastructure.dll
